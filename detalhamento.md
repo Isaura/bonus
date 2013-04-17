@@ -1,4 +1,4 @@
-Detalhamento dos reauisitos para a implementação do sistema de apuração:
+Detalhamento dos requisitos para a implementação do sistema de apuração:
 
 1- Características do arquivo de entrada:
   - Arquivo texto com todos os registros do e-com (de todos os tipos, criados
