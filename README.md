@@ -5,7 +5,7 @@ Premiação Por Solicitações
 
 A Tecsystem premia os seus colaboradores a cada solicitação de mudança implementada em seus softwares. Para isso, é realizada uma apuração trimestral baseada nos registros do software e-com e nos seguintes critérios:
 
-- Valores:
+- Exemplo de valores:
   - R$  5,00 para cada Falha/Erro (BUG)
   - R$ 10,00 para cada Mudança (CHG)
   - R$ 15,00 para cada Nova funcionalidade (NEW)
